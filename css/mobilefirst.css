@@ -1,0 +1,13 @@
+body{background:black;}
+
+@media(min-width:768px){
+    body{ background:red;}
+}
+
+@media(min-width:992px){
+    body{background:green;}
+}
+
+@media(min-width:1200px){
+    body{background:yellow;}
+}

@@ -1,0 +1,19 @@
+body{background:orange;}
+
+@media(max-width:480px){
+    body{ background:black;}
+}
+
+@media(max-width:767px){
+     body{ background:green;}
+}
+
+@media(min-width:768px) and (max-width:979px){
+      body{ background:pink;}
+}
+
+@media(min-width:1200px){
+      body{ background:yellow;}
+}
+
+
